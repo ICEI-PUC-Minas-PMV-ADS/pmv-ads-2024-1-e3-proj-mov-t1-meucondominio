@@ -72,16 +72,25 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+A seguir, destacamos as principais ferramentas essenciais para facilitar nossa comunicação, organização e colaboração durante o desenvolvimento do projeto.
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+**Editores de Código:**
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+> - [Github](https://github.com/): Utilizado como repositório central para o código-fonte do projeto. Ele facilita o versionamento e controle de alterações e permite colaboração síncrona e assíncrona entre os membros da equipe.
+
+**Ferramentas de Comunicação:**
+
+>- [WhatsApp]( https://web.whatsapp.com/): Utilizado como forma principal de comunicação da equipe para mensagens rápidas e comunicação informal. Ideal para comunicação imediata e troca de informações urgentes. 
+> - [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software): Utilizado para reuniões de equipe e reuniões semanais com o coordenador do projeto. 
+
+**Ferramentas de Organização:**
+
+> - [Microsoft Office](https://www.office.com/): Utilizado para criar e editar documentos de texto, planilhas e gráficos. Ideal para documentação de requisitos, especificações técnicas e relatórios de progresso.
+> - [GitHub Projects](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects): Utilizado para organizar e separar tarefas do projeto. Permitindo atribuir responsáveis, definir prazos e acompanhar o progresso das tarefas.
+
+**Ferramentas de Desenho de Tela (_wireframing_):**
+
+> - [Figma](https://www.figma.com/): Utilizado para desenvolvimento do layout das telas da aplicação. Permite criação de wireframes, protótipos interativos e colaboração em tempo real.
+
+Integrando essas ferramentas aos processos definidos, garantimos uma abordagem eficiente e colaborativa para o desenvolvimento do projeto arquitetural. A comunicação e organização são essenciais para o sucesso do projeto, e as ferramentas escolhidas fornecem os recursos necessários para alcançar esses objetivos.
